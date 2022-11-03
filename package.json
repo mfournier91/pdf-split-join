@@ -1,0 +1,14 @@
+{
+  "name": "pdf-split-join",
+  "version": "1.0.0",
+  "description": "Join or Split PDFs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pdf-lib": "^1.17.1"
+  }
+}
